@@ -8,14 +8,10 @@ function draw() {
   strokeWeight(5);
   ellipse(100, 150, 100, 40);
   ellipse(300, 150, 100, 40);
-   fill("green");
-  ellipse(300, 150, 50, 40);
+   fill("random");
+  ellipse(150, 200, 50, 40);
   ellipse(200, 300, 200, 80);
   fill("white");
-  square(100,20,20)
-  square(160,40,20)
-  square(220,40,20)
-  square(280,20,20)
   fill("blue");
   arc(
     200,
